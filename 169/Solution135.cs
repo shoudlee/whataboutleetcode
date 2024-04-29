@@ -40,8 +40,8 @@ public class Solution135
         return total;
     }
 
-    public static void Main(string[] args)
-    {
-        Console.WriteLine(Candy([1,2,2]));
-    }
+    // public static void Main(string[] args)
+    // {
+    //     Console.WriteLine(Candy([1,2,2]));
+    // }
 }

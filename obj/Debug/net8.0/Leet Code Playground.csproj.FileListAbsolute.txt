@@ -26,3 +26,18 @@
 /Users/shoudle/Documents/C# Bare Projects/Leet Code Playground/obj/Debug/net8.0/Leet Code Playground.pdb
 /Users/shoudle/Documents/C# Bare Projects/Leet Code Playground/obj/Debug/net8.0/Leet Code Playground.genruntimeconfig.cache
 /Users/shoudle/Documents/C# Bare Projects/Leet Code Playground/obj/Debug/net8.0/ref/Leet Code Playground.dll
+/home/shoudle/文档/leetcode/whataboutleetcode/obj/Debug/net8.0/Leet Code Playground.GeneratedMSBuildEditorConfig.editorconfig
+/home/shoudle/文档/leetcode/whataboutleetcode/obj/Debug/net8.0/Leet Code Playground.AssemblyInfoInputs.cache
+/home/shoudle/文档/leetcode/whataboutleetcode/obj/Debug/net8.0/Leet Code Playground.AssemblyInfo.cs
+/home/shoudle/文档/leetcode/whataboutleetcode/obj/Debug/net8.0/Leet Code Playground.csproj.CoreCompileInputs.cache
+/home/shoudle/文档/leetcode/whataboutleetcode/obj/Debug/net8.0/Leet Code Playground.sourcelink.json
+/home/shoudle/文档/leetcode/whataboutleetcode/obj/Debug/net8.0/Leet Code Playground.dll
+/home/shoudle/文档/leetcode/whataboutleetcode/obj/Debug/net8.0/refint/Leet Code Playground.dll
+/home/shoudle/文档/leetcode/whataboutleetcode/obj/Debug/net8.0/Leet Code Playground.pdb
+/home/shoudle/文档/leetcode/whataboutleetcode/bin/Debug/net8.0/Leet Code Playground
+/home/shoudle/文档/leetcode/whataboutleetcode/bin/Debug/net8.0/Leet Code Playground.deps.json
+/home/shoudle/文档/leetcode/whataboutleetcode/bin/Debug/net8.0/Leet Code Playground.runtimeconfig.json
+/home/shoudle/文档/leetcode/whataboutleetcode/bin/Debug/net8.0/Leet Code Playground.dll
+/home/shoudle/文档/leetcode/whataboutleetcode/bin/Debug/net8.0/Leet Code Playground.pdb
+/home/shoudle/文档/leetcode/whataboutleetcode/obj/Debug/net8.0/Leet Code Playground.genruntimeconfig.cache
+/home/shoudle/文档/leetcode/whataboutleetcode/obj/Debug/net8.0/ref/Leet Code Playground.dll
