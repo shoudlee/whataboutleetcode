@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/shoudle/.nuget/packages/": {}
+    "C:\\Users\\shizh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/shoudle/文档/leetcode/whataboutleetcode/Leet Code Playground.csproj",
+      "projectUniqueName": "C:\\Users\\shizh\\Documents\\GitHub\\whataboutleetcode\\Leet Code Playground.csproj",
       "projectName": "Leet Code Playground",
-      "projectPath": "/home/shoudle/文档/leetcode/whataboutleetcode/Leet Code Playground.csproj",
-      "packagesPath": "/home/shoudle/.nuget/packages/",
-      "outputPath": "/home/shoudle/文档/leetcode/whataboutleetcode/obj/",
+      "projectPath": "C:\\Users\\shizh\\Documents\\GitHub\\whataboutleetcode\\Leet Code Playground.csproj",
+      "packagesPath": "C:\\Users\\shizh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\shizh\\Documents\\GitHub\\whataboutleetcode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/shoudle/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\shizh\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/shoudle/.dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\shizh\\.dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
