@@ -5,10 +5,10 @@ namespace Solution;
 
 public class Solution058_Me
 {
-    public static void Main(string[] args)
-    {
-        Console.WriteLine(LengthOfLastWord("Todaay is a nice day"));
-    }
+    // public static void Main(string[] args)
+    // {
+    //     Console.WriteLine(LengthOfLastWord("Todaay is a nice day"));
+    // }
 
     public static int LengthOfLastWord(string s)
     {
